@@ -1,3 +1,9 @@
+//Group:            15
+//Name:             Ahmed Butt, Michai Pryce
+//Student ID:       100770449, 100668094
+//Last Modified:    December 16, 2020
+//Project:          OOP3200-F2020-JavaLab5
+
 package ca.durhamcollege;
 
 import javafx.application.Application;
